@@ -1,6 +1,6 @@
 {
   "name": "@react-native-library/boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Template",
   "repository": "git@github.com:luoxuhai/react-native-boilerplate.git",
   "author": "Darkce <darkce97@gmail.com>",

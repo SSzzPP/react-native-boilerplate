@@ -21,6 +21,12 @@
 | react-native-mmkv | Persistence          | v1      | State persistence                              |
 | Hermes            | JS engine            | v2       | Fine-tuned JS engine for RN                    |
 
+## Using
+
+```bash
+npx react-native init MyProject --template @react-native-library/boilerplate
+```
+
 ## Contributing
 
 This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as its Code of Conduct, and we expect project participants to adhere to it. Please read [the full text](CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.

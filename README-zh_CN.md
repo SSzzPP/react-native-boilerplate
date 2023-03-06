@@ -21,6 +21,12 @@
 | react-native-mmkv | 坚持 | v1 | 状态持久化 |
 | Hermes | JS引擎 | v2 | JS 引擎 |
 
+## 使用
+
+```bash
+npx react-native init MyProject --template @react-native-library/boilerplate
+```
+
 ## 贡献
 
 本项目已采用 [Contributor Covenant](https://www.contributor-covenant.org/) 作为其行为准则，我们希望项目参与者遵守它。 请阅读[全文](CODE_OF_CONDUCT.md)。
