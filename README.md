@@ -17,7 +17,7 @@
 | React Navigation  | Navigation           | v6      | Performant and consistent navigation framework |
 | MobX-State-Tree   | State Management     | v5      | Observable state tree                          |
 | MobX-React-Lite   | React Integration    | v3      | Re-render React performantly                   |
-| RN Reanimated     | Animations           | next      | Beautiful and performant animations            |
+| RN Reanimated     | Animations           | v3      | Beautiful and performant animations            |
 | react-native-mmkv | Persistence          | v1      | State persistence                              |
 | Hermes            | JS engine            | v2       | Fine-tuned JS engine for RN                    |
 

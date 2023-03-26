@@ -47,8 +47,6 @@ target 'Boilerplate' do
     permissions_path = '../node_modules/react-native-permissions/ios'
     pod 'Permission-Camera', :path => "#{permissions_path}/Camera"
     
-    pod 'SPIndicator', :git => 'https://github.com/luoxuhai/SPIndicator.git'
-
   target 'BoilerplateTests' do
     inherit! :complete
     # Pods for testing

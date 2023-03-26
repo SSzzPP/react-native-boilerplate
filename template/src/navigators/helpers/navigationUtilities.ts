@@ -8,7 +8,7 @@ import {
 } from '@react-navigation/native';
 import Config from '@/config';
 import type { PersistNavigationConfig } from '@/config/config.base';
-import { useIsMounted } from '@/utils/hooks';
+import { useIsMounted } from '@/hooks';
 import * as storage from '@/utils/storage';
 
 type Storage = typeof storage;

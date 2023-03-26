@@ -17,7 +17,7 @@
 | React Navigation | 导航 | v6 | 高性能且一致的导航框架 |
 | MobX-State-Tree | 状态管理 | v5 | 可观察状态树 |
 | MobX-React-Lite | 反应整合 | v3 | 高效地重新渲染 React |
-| RN Reanimated | 动画 | 下一步 | 动画 |
+| RN Reanimated | 动画 | v3 | 动画 |
 | react-native-mmkv | 坚持 | v1 | 状态持久化 |
 | Hermes | JS引擎 | v2 | JS 引擎 |
 
